@@ -6,15 +6,15 @@ let handler = async (m, { conn }) => {
 ╠➥ *2 Bulan* :      *Rp 30000*
 ╠➥ *Permanen* : *Rp 40000*
 ╠➥ *Owner* :   *Rp 30000*/bln
-╠➥ *Nomer Gopay & pulsa* : 
-║    085730903853
+╠➥ *Nomer pulsa* : 
+║    085779150501
 ╠═〘 PEMBAYARAN 〙 ═
 ╠➥ Dana Dan Pulsa
 ║
 ╠═ Tertarik Untuk Beli Bot Ini?
 ╠➥Ketuk Tombol Di Bawah Ya
 ║
-╠═ ©2021 Rpg wabot-aq
+╠═ ©2022 Rpg wabot-aq
 ╠═ Scrip original by Nurutomo
 ╠═〘 AlyaaXzy 〙 ═`.trim(), watermark, 'Dana', '#viadana', 'Pulsa', '#viapulsa', m)
 }
