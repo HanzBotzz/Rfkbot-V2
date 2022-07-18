@@ -15,10 +15,10 @@ gc1 = 'https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau'
 gc2 = 'https://chat.whatsapp.com/HjRHck1G3WRHOx97fJkdMN'
 gc3 = 'https://chat.whatsapp.com/HcGcIB09sIvKrGytO8yfFn'
 global.linkGC = ['https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau', ''] // ganti jadi group lu
-global.owner = ['6289612698583','6288233832771'] // Put your number here //owner eval
-global.kontak = ['6289612698583','6288233832771'] //Ketika ada yang ngetik #owner
+global.owner = ['6285779150501','6289512630591'] // Put your number here //owner eval
+global.kontak = ['6289612698583','6289512630591'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
+global.prems = ['6285779150501','6289505165400','089512630591'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -49,20 +49,20 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'mursid.st'
 namagithub = 'Botwa021'
 kasihcaption = `Instagram.com/mursid.st`
-namakontak1 = '𝙼𝚞𝚛𝚜𝚒𝚍 𝙱𝙾𝚃'
-namakontak2 = '𝙼𝚞𝚛𝚜𝚒𝚍'
+namakontak1 = 'Hanz 𝙱𝙾𝚃'
+namakontak2 = 'Hanz'
 
-//kasihcaption = `Instagram.com/mursid.st`
+//kasihcaption = `Instagram.com/rangga_botz.st`
 
 // Sticker WM
-global.packname = 'мυяѕι∂' // ganti aja
-global.author = 'ʙᴏᴛ' // ganti aja
+global.packname = 'Rangga_Official' // ganti aja
+global.author = 'Hanz' // ganti aja
 
 //yyy
 bc = 'мυяѕι∂' //мυяѕι∂ Broadcast
-footer = `\n© _*MursidBot*_`
+footer = `\n© _*HanzBot*_`
 namabot = `WhatsApp Bot`
-namalu = 'MursidGanteng'
+namalu = 'RanggaGanteng'
 
 
 // 
